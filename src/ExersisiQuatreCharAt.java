@@ -1,7 +1,7 @@
 // Demanar a l’usuari el seu nom i mostrar-li lletra per lletra
 
 import java.util.Scanner;
-public class ExersisiQuatre {
+public class ExersisiQuatreCharAt {
 
     public static void main(String[] args) {
 

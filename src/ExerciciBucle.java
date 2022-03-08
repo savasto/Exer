@@ -1,4 +1,4 @@
-public class Exercici {
+public class ExerciciBucle {
 
     public static void main(String [] args) {
         int num=5;

@@ -8,7 +8,7 @@ public class Main {
         int resultado2;
         for (int i = 0; i <= 15; i++) {
             resultado = resultado + num;
-            System.out.println("5* " + i);
+            System.out.println("5 " + i);
             System.out.println("resultado = " + resultado);
             resultado2 = resultado % 2;
             if (resultado2 == 0) {

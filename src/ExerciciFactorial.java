@@ -17,7 +17,7 @@ import java.util.Scanner;
 
   int resultado=1;// nachinaetsia ne s nulia
    for (int contador = 1; contador <=num ; contador++) {
-     resultado = resultado * contador;
+     resultado = resultado*contador;
 
     System.out.println("Factorial = " + resultado);
    }
@@ -27,13 +27,4 @@ import java.util.Scanner;
   }
 
 }
-//sout("Escriu un numero");
-//Scanner sc = new Scanner(System.in);
-//int numero = sc.nextInt();
 
-//int resultado=1;
-//for(int i=1; i<=numero; i++){
-//resultado = resultado * i;
-//}
-
-//sout ("resultado" + resultado);
